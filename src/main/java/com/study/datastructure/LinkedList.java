@@ -25,9 +25,25 @@ public class LinkedList {
         singleLinkedList.addByOrder(hero4);
         //修改节点信息
         singleLinkedList.modify(hero5);
-        singleLinkedList.delete(4);
-        singleLinkedList.list();
         //删除节点
+//        singleLinkedList.delete(4);
+        singleLinkedList.list();
+        System.out.println("节点有效的个数:"+singleLinkedList.valid());
+//        System.out.println("倒数第k个几点为:"+singleLinkedList.findIndex(1));
+        System.out.println("反转链表:");
+
+        HeroNode temp =singleLinkedList.reverse();
+
+        while (true) {
+            //判断是否到链表最后
+            if (temp == null) {
+                break;
+            }
+            //输出节点的信息
+            System.out.println(temp);
+            //将temp后移， 一定小心
+            temp = temp.next;
+        }
 
     }
 
@@ -37,6 +53,68 @@ class SingelLinkedList {
     //初始化英雄节点
     //创建head ,头节点不存放任何数据
     private HeroNode head = new HeroNode(0, "", "");
+
+    /**
+     * 单链表常见面试题
+     * 单链表的反转
+     */
+    public HeroNode reverse(){
+
+        //新建一个空链表
+        HeroNode newHeroNode=new HeroNode(0, "", "");
+
+        //原链表的当前节点
+        HeroNode cur=head.next;
+        //原链表的下一个节点
+        HeroNode next=null;
+
+        while (true){
+            if(cur==null) break;
+            next=cur.next;
+
+            cur.next=newHeroNode.next;
+            newHeroNode.next=cur;
+            cur=next;
+        }
+
+        return newHeroNode;
+    }
+
+    /**
+     * 单链表常见面试题
+     * 求单链表中有效节点的个数
+     * @param
+     */
+    public int valid(){
+
+        HeroNode temp=head;
+        int count=0;
+        while (true){
+            if(temp.next==null) break;
+            count++;
+            temp=temp.next;
+        }
+        return count;
+    }
+
+    /**
+     * 单链表常见面试题
+     * 查找单链表中的倒数第k个结点
+     * @param
+     */
+    public HeroNode findIndex(int deindex){
+        //获取链表长度
+        int length=valid()+1;
+        if(deindex<=0 || deindex>length) return null;
+        //获取正数是第几个节点
+        int index=length-deindex;
+        HeroNode temp=head;
+        for (int i=0;i<index;i++){
+            temp=temp.next;
+        }
+        return temp;
+    }
+
 
     //删除节点
     public void delete(int no) {
