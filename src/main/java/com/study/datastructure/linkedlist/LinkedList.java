@@ -1,4 +1,6 @@
-package com.study.datastructure;
+package com.study.datastructure.linkedlist;
+
+import java.util.Stack;
 
 public class LinkedList {
 
@@ -32,18 +34,20 @@ public class LinkedList {
 //        System.out.println("倒数第k个几点为:"+singleLinkedList.findIndex(1));
         System.out.println("反转链表:");
 
-        HeroNode temp =singleLinkedList.reverse();
+//        HeroNode temp =singleLinkedList.reverse();
 
-        while (true) {
-            //判断是否到链表最后
-            if (temp == null) {
-                break;
-            }
-            //输出节点的信息
-            System.out.println(temp);
-            //将temp后移， 一定小心
-            temp = temp.next;
-        }
+
+//        while (true) {
+//            //判断是否到链表最后
+//            if (temp == null) {
+//                break;
+//            }
+//            //输出节点的信息
+//            System.out.println(temp);
+//            //将temp后移， 一定小心
+//            temp = temp.next;
+//        }
+        singleLinkedList.reverseStack();
 
     }
 
@@ -57,6 +61,8 @@ class SingelLinkedList {
     /**
      * 单链表常见面试题
      * 单链表的反转
+     * 第一种实现方式
+     * 缺点：会破坏原链表结构，不建议
      */
     public HeroNode reverse(){
 
@@ -80,6 +86,24 @@ class SingelLinkedList {
         return newHeroNode;
     }
 
+    /**
+     * 单链表常见面试题
+     * 单链表的反转
+     * 第二种实现方式
+     * 使用栈，特点：先进后出
+     */
+    public void reverseStack(){
+
+        HeroNode cur=head.next;
+        Stack<HeroNode> stack = new Stack<HeroNode>();
+        while (cur!=null){
+            stack.push(cur);
+            cur=cur.next;
+        }
+        while (stack.size() > 0){
+            System.out.println(stack.pop());
+        }
+    }
     /**
      * 单链表常见面试题
      * 求单链表中有效节点的个数
