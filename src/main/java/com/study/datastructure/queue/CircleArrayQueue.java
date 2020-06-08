@@ -70,6 +70,5 @@ public class CircleArrayQueue {
                 System.out.printf("%d\t", i);
             }
         }
-
     }
 }

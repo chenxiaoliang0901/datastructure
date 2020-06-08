@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9becd4-fea3-4122-8d07-bb923fe9a03f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/CircleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/TwoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/docs/单向环形链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/RecentCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/丑数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/顺时针打印矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/recursion/MiGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/docs/八皇后问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/docs/最长连续序列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/Queue8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/最长连续序列.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datastructure/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datastructure/CircleArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/CircleArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datastructure/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datastructure/SparseArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/sparsearrray/SparseArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/docs/单向队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/docs/单向队列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/docs/环形队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/docs/环形队列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/docs/稀疏数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/docs/稀疏数组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/docs/链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/docs/链表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/ArrayQueue$Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/CircleArrayQueue$Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/CircleArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/SingelLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/SparseArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/CircleArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/CircleArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/顺时针打印矩阵.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/顺时针打印矩阵.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,99 +25,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/CircleArrayQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="54" />
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="55" />
-              <caret line="9" column="54" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="54" />
-              <caret line="10" column="54" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="54" />
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="52" />
+            <state relative-caret-position="15">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/最长连续序列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
               <folding>
-                <element signature="e#2259#2269#0" expanded="true" />
-                <element signature="e#4342#4343#0" expanded="true" />
-                <element signature="e#4421#4422#0" expanded="true" />
+                <element signature="e#243#252#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/climbStairs.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/recursion/MiGong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/TwoLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#201#217#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#563#564#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#883#884#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/CircleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
-              <folding>
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-143">
+              <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/顺时针打印矩阵.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/docs/八皇后问题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/Queue8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="131">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/docs/最长连续序列.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -151,13 +100,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/docs/链表.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/丑数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/两数之和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#303#320#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,25 +123,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/RecentCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="275">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/丑数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="9" />
-              <folding>
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -228,6 +171,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/CircleLinkedList.java" />
         <option value="$PROJECT_DIR$/src/test/java/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/顺时针打印矩阵.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/CircleArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/docs/最长连续序列.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/最长连续序列.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/recursion/MiGong.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/Queue8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/docs/八皇后问题.md" />
       </list>
     </option>
   </component>
@@ -242,6 +191,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,20 +239,36 @@
               <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="datastructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591340238914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591604831095" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -329,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.顺时针打印矩阵">
+  <component name="RunManager" selected="Application.Queue8">
     <configuration name="顺时针打印矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.study.leetcode.顺时针打印矩阵" />
       <module name="datastructure" />
@@ -343,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.datastructure.linkedlist.CircleLinkedList" />
+    <configuration name="最长连续序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.leetcode.最长连续序列" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.datastructure.linkedlist.*" />
+          <option name="PATTERN" value="com.study.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.datastructure.linkedlist.LinkedList" />
+    <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.datastructure.recursion.MiGong" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.datastructure.queue.*" />
+          <option name="PATTERN" value="com.study.datastructure.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.datastructure.linkedlist.TwoLinkedList" />
+    <configuration name="Queue8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.leetcode.Queue8" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.datastructure.linkedlist.*" />
+          <option name="PATTERN" value="com.study.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,11 +371,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queue8" />
+        <item itemvalue="Application.MiGong" />
+        <item itemvalue="Application.最长连续序列" />
         <item itemvalue="Application.顺时针打印矩阵" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.CircleLinkedList" />
-        <item itemvalue="Application.TwoLinkedList" />
-        <item itemvalue="Application.LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -430,19 +397,20 @@
       <option name="presentableId" value="Default" />
       <updated>1590906242511</updated>
       <workItem from="1590906247309" duration="6826000" />
-      <workItem from="1591020756421" duration="53478000" />
+      <workItem from="1591020756421" duration="55431000" />
+      <workItem from="1591580910933" duration="5228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60304000" />
+    <option name="totallyTimeSpent" value="67485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1353" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2883295" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4971537" visible="true" weight="0.2921434" />
+      <window_info id="Structure" order="1" sideWeight="0.5028463" side_tool="true" weight="0.2921434" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -450,13 +418,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.24964234" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20816326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27755103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3292517" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.292517" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32517007" />
@@ -477,16 +445,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/docs/sparseArr.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/docs/sparseArr.md" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -494,34 +453,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/两数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#303#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/爬楼梯.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/ArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/CircleArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -572,26 +507,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/RecentCounter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/丑数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="9" />
-          <folding>
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="54" />
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="55" />
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="54" />
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="54" />
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -602,49 +525,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="54" />
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="55" />
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="54" />
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="54" />
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="e#2259#2269#0" expanded="true" />
-            <element signature="e#4342#4343#0" expanded="true" />
-            <element signature="e#4421#4422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/TwoLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#201#217#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/CircleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/顺时针打印矩阵.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -658,36 +570,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/queue/CircleArrayQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="15">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/linkedlist/CircleLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/docs/最长连续序列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/RecentCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        <state relative-caret-position="275">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/顺时针打印矩阵.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/丑数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/两数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#303#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/最长连续序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          <folding>
+            <element signature="e#243#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/recursion/MiGong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/Queue8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/docs/八皇后问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
