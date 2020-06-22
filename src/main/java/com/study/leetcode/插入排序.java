@@ -32,11 +32,7 @@ public class 插入排序 {
             if (j != i) {
                 arr[j] = temp;
             }
-
-
         }
-
-
     }
 
 
