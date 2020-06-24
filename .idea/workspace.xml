@@ -2,57 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9becd4-fea3-4122-8d07-bb923fe9a03f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/BinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/RedBlackTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/IP地址无效化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/从中序与后序遍历序列构造二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/反转字符串中的单词III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/地下城游戏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/左旋转字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/斐波那契.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/旅行终点站.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/最小高度树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/重建二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树中序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树前序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树后序遍历.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/leetcode/插入排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/leetcode/插入排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/CircleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/CircleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/CircleSingleLinkedList$ChildNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/CircleSingleLinkedList$ChildNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/CircleSingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/DoubleHeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/DoubleHeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/LindedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/LindedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/SingelLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/SingelLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/TwoLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/linkedlist/TwoLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/queue/ArrayQueue$Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/queue/ArrayQueue$Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/queue/ArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/queue/CircleArrayQueue$Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/queue/CircleArrayQueue$Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/queue/CircleArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/queue/CircleArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/recursion/MiGong.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/recursion/MiGong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/datastructure/sparsearrray/SparseArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/datastructure/sparsearrray/SparseArr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/Queue8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/Queue8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/RecentCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/RecentCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/climbStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/climbStairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/丑数.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/丑数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/两数之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/两数之和.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/冒泡排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/冒泡排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/希尔排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/希尔排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/快速排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/快速排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/插入排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/插入排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/最长连续序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/最长连续序列.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/爬楼梯.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/爬楼梯.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/选择排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/选择排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/leetcode/顺时针打印矩阵.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/leetcode/顺时针打印矩阵.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,40 +22,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/IP地址无效化.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/重建二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="153">
+              <caret line="37" selection-start-line="37" selection-end-line="53" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/最小高度树.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/希尔排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state relative-caret-position="525">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树前序遍历.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding>
-                <element signature="e#624#625#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/插入排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/旅行终点站.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树中序遍历.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,61 +64,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/RedBlackTree.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树后序遍历.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-545">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#3415#3416#0" expanded="true" />
-                <element signature="e#3451#3452#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/快速排序.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="630">
+              <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/从中序与后序遍历序列构造二叉树.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="390">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding>
-                <element signature="e#169#187#0" expanded="true" />
-                <element signature="e#1404#1405#0" expanded="true" />
-                <element signature="e#1446#1447#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/重建二叉树.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/BinaryTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="37" selection-start-line="37" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="900">
+              <caret line="61" selection-start-line="61" selection-end-line="73" selection-end-column="5" />
               <folding>
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/希尔排序.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="3645">
+              <caret line="266" column="13" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -173,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/冒泡排序.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -194,9 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/爬楼梯.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/climbStairs.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/ArrayQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/sparseArr.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/SparseArr.java" />
@@ -239,12 +184,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/RedBlackTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/地下城游戏.java" />
         <option value="$PROJECT_DIR$/src/test/java/test4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test5.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/最小高度树.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/从中序与后序遍历序列构造二叉树.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/BinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/重建二叉树.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树的前序遍历.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树中序遍历.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树后序遍历.java" />
       </list>
     </option>
   </component>
@@ -256,10 +204,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="160" />
-    <option name="y" value="34" />
-    <option name="width" value="1409" />
-    <option name="height" value="827" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -267,7 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -317,16 +262,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datastructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -334,12 +269,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592788837095" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592905832100" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -349,6 +285,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.leetcode" />
       <recent name="com.study.datastructure" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -367,35 +304,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.重建二叉树">
+  <component name="RunManager" selected="Application.test5">
     <configuration name="从中序与后序遍历序列构造二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.study.leetcode.从中序与后序遍历序列构造二叉树" />
-      <module name="datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最小高度树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.leetcode.最小高度树" />
-      <module name="datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.study.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="重建二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.study.leetcode.重建二叉树" />
       <module name="datastructure" />
       <extension name="coverage">
         <pattern>
@@ -537,6 +448,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="最小高度树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.leetcode.最小高度树" />
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="重建二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.leetcode.重建二叉树" />
+      <module name="datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test5" />
       <module name="datastructure" />
@@ -546,11 +483,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.重建二叉树" />
+        <item itemvalue="Application.test5" />
         <item itemvalue="Application.BinaryTreeDemo" />
         <item itemvalue="Application.从中序与后序遍历序列构造二叉树" />
-        <item itemvalue="Application.最小高度树" />
-        <item itemvalue="Application.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -577,7 +512,10 @@
       <workItem from="1591668567015" duration="9925000" />
       <workItem from="1591774890568" duration="9805000" />
       <workItem from="1592115009206" duration="4950000" />
-      <workItem from="1592288950452" duration="46728000" />
+      <workItem from="1592288950452" duration="46929000" />
+      <workItem from="1592876447466" duration="7956000" />
+      <workItem from="1592909469926" duration="124000" />
+      <workItem from="1592963181143" duration="3018000" />
     </task>
     <task id="LOCAL-00001" summary="新增最长连续序列和八皇后">
       <created>1591604891898</created>
@@ -586,17 +524,24 @@
       <option name="project" value="LOCAL" />
       <updated>1591604891898</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增leetcode">
+      <created>1592790278522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592790278522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142442000" />
+    <option name="totallyTimeSpent" value="153741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4971537" visible="true" weight="0.25107297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4971537" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" sideWeight="0.5028463" side_tool="true" weight="0.2921434" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -605,7 +550,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.24964234" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21445782" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21445782" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -633,10 +578,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增最长连续序列和八皇后" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增最长连续序列和八皇后" />
+    <MESSAGE value="新增leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增leetcode" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/docs/sparseArr.md" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -856,13 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -904,16 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -928,21 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/BinaryTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2718#2719#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#1235#1236#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/IP地址无效化.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -950,53 +863,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/RedBlackTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/最小高度树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-545">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="510">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
           <folding>
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#3415#3416#0" expanded="true" />
-            <element signature="e#3451#3452#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/重建二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="37" selection-start-line="37" selection-end-line="53" selection-end-column="5" />
-          <folding>
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/从中序与后序遍历序列构造二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="e#169#187#0" expanded="true" />
-            <element signature="e#1404#1405#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/冒泡排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/快速排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
@@ -1009,7 +882,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/旅行终点站.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="210">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1017,20 +890,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/最小高度树.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/快速排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/从中序与后序遍历序列构造二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/RedBlackTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
-            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#3415#3416#0" expanded="true" />
+            <element signature="e#3451#3452#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/希尔排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/datastructure/tree/BinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="61" selection-start-line="61" selection-end-line="73" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3645">
+          <caret line="266" column="13" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/冒泡排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/重建二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="37" selection-start-line="37" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树前序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树后序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/leetcode/二叉树中序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
