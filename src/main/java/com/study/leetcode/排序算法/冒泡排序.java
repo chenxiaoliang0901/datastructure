@@ -20,8 +20,8 @@ public class 冒泡排序 {
 
     public static void bubbleSort(int[] arr) {
         int temp=0;
-        for (int i = 0; i < arr.length-1; i++) {
-            for (int j = 0; j < arr.length-i-1; j++) {
+        for (int i = 1; i < arr.length; i++) {
+            for (int j = 0; j < arr.length-i; j++) {
                 if (arr[j] > arr[j+1]) {
                     temp = arr[j];
                     arr[j] = arr[j+1];
