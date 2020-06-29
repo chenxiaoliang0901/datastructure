@@ -1,4 +1,4 @@
-package com.study.leetcode;
+package com.study.leetcode.递归回溯;
 
 public class Queue8 {
 

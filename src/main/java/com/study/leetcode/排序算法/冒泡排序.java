@@ -1,4 +1,4 @@
-package com.study.leetcode;
+package com.study.leetcode.排序算法;
 
 /**
  * 冒泡排序(Bubble Sorting)的基本思想是:

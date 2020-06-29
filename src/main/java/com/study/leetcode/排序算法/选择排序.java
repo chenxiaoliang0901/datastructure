@@ -1,4 +1,4 @@
-package com.study.leetcode;
+package com.study.leetcode.排序算法;
 
 /**
  * 选择排序(select sorting)也是一种简单的排序方法。它的基本思想是:第一次从 arr[0]~arr[n-1]中选取最小值，
